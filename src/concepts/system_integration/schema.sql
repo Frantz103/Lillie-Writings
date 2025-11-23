@@ -1,0 +1,3 @@
+-- System Integration Concept Schema
+-- This concept interfaces with the OS and doesn't require persistent storage.
+-- This file exists for architectural consistency.
