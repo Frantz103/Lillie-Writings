@@ -33,7 +33,7 @@
     "@typescript-eslint/eslint-plugin": "^6.17.0",
     "@typescript-eslint/parser": "^6.17.0",
     "concurrently": "^8.2.2",
-    "cpx": "^1.2.1",
+    "cpx2": "^7.0.1",
     "css-loader": "^6.8.1",
     "electron": "^39.2.3",
     "eslint": "^8.56.0",
@@ -48,7 +48,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "better-sqlite3": "^9.2.2",
+    "better-sqlite3": "^12.4.5",
     "franc-min": "^6.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
